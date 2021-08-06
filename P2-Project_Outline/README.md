@@ -32,4 +32,4 @@ Our group chose this project because we all felt a connection with its core feat
 ### What I'll Have to Learn
  JavaMail API, MS Graph API
 ### Project Tracker
-Project Trello Board: Liftoff Project
+Project Trello Board: https://trello.com/b/zrQnDjXq/liftoff-project
